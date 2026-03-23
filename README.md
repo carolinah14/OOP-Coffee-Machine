@@ -40,5 +40,5 @@ A Python console-based coffee machine simulation built using Object-Oriented Pro
 - Separating responsibilities across components (menu, machine, payment)
 - Managing resources and state within objects
 - Writing and using docstrings for documentation
-
+- Understanding abstraction (using classes without needing internal implementation details)
 
